@@ -23,18 +23,22 @@
   </action>
   <action id="EditorBackwardParagraph">
     <keyboard-shortcut first-keystroke="ctrl alt tab" />
+    <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
   <action id="EditorBackwardParagraphWithSelection">
     <keyboard-shortcut first-keystroke="ctrl meta alt tab" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt left" />
   </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl alt minus" />
   </action>
   <action id="EditorForwardParagraph">
     <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
   <action id="EditorForwardParagraphWithSelection">
     <keyboard-shortcut first-keystroke="ctrl meta alt open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt right" />
   </action>
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl alt equals" />
@@ -85,6 +89,18 @@
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="meta alt f7" />
     <keyboard-shortcut first-keystroke="ctrl meta u" />
+  </action>
+  <action id="StretchSplitToBottom">
+    <keyboard-shortcut first-keystroke="shift meta alt down" />
+  </action>
+  <action id="StretchSplitToLeft">
+    <keyboard-shortcut first-keystroke="shift meta alt left" />
+  </action>
+  <action id="StretchSplitToRight">
+    <keyboard-shortcut first-keystroke="shift meta alt right" />
+  </action>
+  <action id="StretchSplitToTop">
+    <keyboard-shortcut first-keystroke="shift meta alt up" />
   </action>
   <action id="TabList">
     <keyboard-shortcut first-keystroke="shift alt back_slash" />
