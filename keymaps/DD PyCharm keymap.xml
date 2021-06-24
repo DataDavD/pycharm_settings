@@ -1,0 +1,107 @@
+<keymap version="1" name="DD PyCharm keymap" parent="Mac OS X 10.5+">
+  <action id="ActivateEventLogToolWindow">
+    <keyboard-shortcut first-keystroke="meta alt back_slash" />
+  </action>
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta 3" />
+  </action>
+  <action id="ActivateMypyTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta alt 0" />
+  </action>
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
+  <action id="Coverage">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+  </action>
+  <action id="EditorBackwardParagraph">
+    <keyboard-shortcut first-keystroke="ctrl alt tab" />
+  </action>
+  <action id="EditorBackwardParagraphWithSelection">
+    <keyboard-shortcut first-keystroke="ctrl meta alt tab" />
+  </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl alt minus" />
+  </action>
+  <action id="EditorForwardParagraph">
+    <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
+  </action>
+  <action id="EditorForwardParagraphWithSelection">
+    <keyboard-shortcut first-keystroke="ctrl meta alt open_bracket" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl alt equals" />
+  </action>
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="EditorToggleInsertState">
+    <keyboard-shortcut first-keystroke="ctrl meta o" />
+  </action>
+  <action id="FileChooser.ShowHiddens">
+    <keyboard-shortcut first-keystroke="shift meta comma" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt u" />
+  </action>
+  <action id="FindUsagesInFile">
+    <keyboard-shortcut first-keystroke="meta f7" />
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="Next Mypy Error">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+    <keyboard-shortcut first-keystroke="shift alt 8" />
+  </action>
+  <action id="Previous Mypy Error">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+    <keyboard-shortcut first-keystroke="shift alt 7" />
+  </action>
+  <action id="QuickTypeDefinition">
+    <keyboard-shortcut first-keystroke="shift alt space" />
+  </action>
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="meta f1" />
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="meta alt f7" />
+    <keyboard-shortcut first-keystroke="ctrl meta u" />
+  </action>
+  <action id="TabList">
+    <keyboard-shortcut first-keystroke="shift alt back_slash" />
+  </action>
+  <action id="Tool_External Tools_Black">
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
+  <action id="Tool_External Tools_Black on full dir">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+  </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="shift alt v" />
+  </action>
+  <action id="Vcs.Operations.Popup.Annotate">
+    <keyboard-shortcut first-keystroke="shift alt back_quote" />
+  </action>
+</keymap>
